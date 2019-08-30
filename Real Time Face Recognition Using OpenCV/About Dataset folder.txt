@@ -1,0 +1,7 @@
+*******INFO 1*********
+You Need To store Your face 
+Samples(usually 60 Or U can increase) By Creating The Dataset Folder.
+
+*******INFO 2*********
+Also use This folder to Train The Model.
+basically this is the training of the images.
