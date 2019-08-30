@@ -21,8 +21,8 @@ id = 0
 name = ""
 dataset = "Dataset"
 
-# names related to ids: example ==> Marcelo: id=1,  etc
-#names = ['None', 'Saurabh', 'Maa', 'Neha', 'paji', 'Nana']
+# names related to ids: example ==> vishav: id=1,  etc
+#names = ['None', 'vishav', 'rohit', 'CHaddi', 'ADnan']
 
 # Initialize and start realtime video capture
 cam = cv2.VideoCapture(0)
